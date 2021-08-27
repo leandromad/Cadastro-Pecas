@@ -16,6 +16,6 @@ Para criação desse sistema de cadastro, você, enquanto programador(a) respons
 * Aplicas linguagem de programação JavaScript para implementação do
 -------------------------------------------------------------------------------
 # Fluxograma 
-
+![alt text](https://github.com/leandromad/Cadastro-Pecas/blob/master/Fluxograma_CadastroPecas.png)
 
 
