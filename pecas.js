@@ -1,4 +1,4 @@
-const listaDePecas = ['Ar condicionado', 'Motor', 'Amortecedor', 'Suspensão']
+const listaDePecas = ['Antena', 'Motor', 'Amortecedor', 'Suspensão']
 
 if (listaDePecas.length < 5) {
   console.log('É possível cadastrar mais peças')
